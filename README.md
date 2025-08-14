@@ -1,4 +1,6 @@
 # DiegoPiol
+
+### 👨‍💻 Sobre Mim
 Olá! Sou Diego, 18 anos, de São Paulo 🇧🇷.<br/>
 🎓 Formação escolar concluída no Colégio Jardim São Paulo.<br/>
 💻 Estudante de Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia.<br/>
@@ -21,6 +23,9 @@ Olá! Sou Diego, 18 anos, de São Paulo 🇧🇷.<br/>
         />
     </a>
 </p>
+
+### 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/diego-piol-amancio-358b32379/)
 
 ---
 
