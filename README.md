@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre Mim
 Olá! Sou Diego, 18 anos, de São Paulo 🇧🇷.<br/>
 🎓 Formação escolar concluída no Colégio Jardim São Paulo.<br/>
-💻 Estudante de Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia.<br/>
+💻 Cursando 2º semestre de Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia.<br/>
 💡 Interessado em programação, desenvolvimento de software e novas tecnologias.<br/>
 📚 Sempre aprendendo e criando novos projetos.<br/>
 🗣️ Inglês: Avançado (C1) Yazigi Guarulhos Centro.
