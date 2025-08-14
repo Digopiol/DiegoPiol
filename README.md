@@ -38,5 +38,3 @@ Olá! Sou Diego, 18 anos, de São Paulo 🇧🇷.
 
 <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Digopiol&show_icons=true&theme=tokyonight&locale=pt-br" />
 
-[<img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digopiol&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Digopiol&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800
-)
